@@ -1,3 +1,5 @@
+> 📂 **관광 식당 메뉴판 번역 프로젝트** — [📱 App](https://github.com/Chun-Bae/restaurant-menu-translation-app) · [🖥️ Web](https://github.com/Chun-Bae/restaurant-menu-translation-web) · **🔧 API** · [🔍 OCR Model](https://github.com/Chun-Bae/restaurant-menu-translation-ocr-model) · [🌐 Translate Model](https://github.com/Chun-Bae/restaurant-menu-translation-translate-model)
+
 # 🔧 API Server — 파이프라인 오케스트레이터
 
 > **OCR · 번역 컨테이너를 비동기로 제어하는 FastAPI 미들웨어 서버**
